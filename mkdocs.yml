@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Tijuana World Order Wiki
+nav:
+  - Home: index.md
+  - Undisputed tWo Championship : twoChampionship.md
+  - The Marcos - 2023 : theMarcos2023.md
+  - The Marcos - 2024 : theMarcos2024.md
+theme:
+    name: material
+    palette:
+      scheme: default
+      primary: black
+      accent: white
